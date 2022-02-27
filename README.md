@@ -1,5 +1,9 @@
 # Getting Started with Tesla Clone
 
+## 🚘🚘🚗🚗
+
+![tesla](/public/images/tesla.png)
+
 ## Install Dependencies
 
 ```
@@ -24,6 +28,4 @@ npm install
 npm start
 ```
 
-## 🚘🚘🚗🚗
 
-![tesla](/public/images/tesla.png)
