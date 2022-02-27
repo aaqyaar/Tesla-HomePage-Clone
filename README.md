@@ -17,7 +17,7 @@ npm install
 - Reusable Components
 - Hooks and Much Much More....
 
-| Tesla Clone | [Live Demo](vercel.app) |
+| Tesla Clone | [Live Demo](https://tesla-home-page-clone-v3.netlify.app/) |
 | ----------- | ----------------------- |
 
 🥰😊
